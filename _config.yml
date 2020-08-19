@@ -1,0 +1,26 @@
+# Site settings
+name: PS Blog-个人博客
+email: scorpy@foxmail.com
+author: posuo
+url: http://www.psm.pub
+resume_site: http://ps.psm.pub
+github: https://github.com/posuo/
+baseurl: "/Posuomen"
+description: Actually, posuomen!
+meta_description: 婆娑门;个人博客;我命由我不由天;但说不修成妄言;以缘相见;以德相守
+motto: It's our wits that make us men.
+banner: 自信自有冲天翼，舍此便为地狱门。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: posuo
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
