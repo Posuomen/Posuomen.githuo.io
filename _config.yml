@@ -8,7 +8,7 @@ github: https://github.com/posuo/
 baseurl: "/Posuomen"
 description: Actually, posuomen!
 meta_description: 婆娑门;个人博客;我命由我不由天;但说不修成妄言;以缘相见;以德相守
-motto: It's our wits that make us men.
+motto: There is us who create God.
 banner: 自信自有冲天翼，舍此便为地狱门。
 
 #permalink: /:categories/:year/:month/:day/:title/
@@ -22,5 +22,5 @@ github_username: posuo
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+baidu_analysis: 04173a0b76d8b56bc36ce46c5608f8c3
 
